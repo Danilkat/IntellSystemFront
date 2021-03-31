@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  justify-content: left;
+}
+.col {
+  min-width: 300px;
+  font-size: 23px;
+  text-align: center;
+  border: 1px solid black;
+  border-right: 0px;
+  &:last-child {
+    border-right: 1px solid black;
+  }
+}

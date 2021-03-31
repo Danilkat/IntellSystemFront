@@ -1,0 +1,13 @@
+{
+  "imposters" : [
+      {
+          "port": 50110,
+          "protocol": "http",
+          "allowCORS": true,
+          "stubs": [
+          <% include components.json %>,
+          <% include pcs.json %>
+          ]
+      }
+  ]
+}

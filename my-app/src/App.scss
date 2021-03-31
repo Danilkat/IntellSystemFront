@@ -1,0 +1,49 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  .App-header {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    border: 3px solid grey;
+    border-top: 0px;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 36px;
+    div {
+      display: flex;
+      flex-direction: column;
+      }
+    }
+  .question {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 24px;
+  }
+  .button1 {
+    display: inline-block;
+    max-width: 200px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: #fff;
+    transition: background-color 0.5s;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    padding: 20px;
+    &:hover {
+      background-color: #0051ca;
+    }
+    }
+  .buttonWrapper {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+  }
+  }
+

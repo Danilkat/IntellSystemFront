@@ -1,0 +1,70 @@
+{
+  "predicates": [
+    {
+      "matches": {
+        "path": "pcs"
+      }
+    }
+  ],
+  "responses":[
+    {
+      "is": {
+        "headers": {
+          "Access-Control-Allow-Headers": "authorization",
+          "Access-Control-Allow-Methods": "GET,POST,DELETE,PUT,PATCH",
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Expose-Headers": "Location"
+        },
+        "body": {
+          "data": [
+            {
+              "id": "1",
+              "name": "Компьютер 1",
+              "type": "1",
+              "processor": "1",
+              "os": "3",
+              "body": "5",
+              "videocard": "7",
+              "motherboard": "9",
+              "ram": "11",
+              "powerblock": "13",
+              "ssd": "15",
+              "harddrive": "17",
+              "cooling": "19"
+            },
+            {
+              "id": "2",
+              "name": "Компьютер 2",
+              "type": "2",
+              "processor": "2",
+              "os": "4",
+              "body": "6",
+              "videocard": "8",
+              "motherboard": "10",
+              "ram": "12",
+              "powerblock": "14",
+              "ssd": "16",
+              "harddrive": "18",
+              "cooling": "20"
+            },
+            {
+              "id": "3",
+              "name": "Компьютер 3",
+              "type": "3",
+              "processor": "2",
+              "os": "4",
+              "body": "6",
+              "videocard": "8",
+              "motherboard": "9",
+              "ram": "11",
+              "powerblock": "13",
+              "ssd": "15",
+              "harddrive": "17",
+              "cooling": "19"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

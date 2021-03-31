@@ -1,0 +1,163 @@
+{
+  "predicates": [
+    {
+      "matches": {
+        "path": "comps"
+      }
+    }
+  ],
+  "responses":[
+    {
+      "is": {
+        "headers": {
+          "Access-Control-Allow-Headers": "authorization",
+          "Access-Control-Allow-Methods": "GET,POST,DELETE,PUT,PATCH",
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Expose-Headers": "Location"
+        },
+        "body": {
+          "data": [
+            {
+              "id": "1",
+              "type": "processor",
+              "name": "Intel Core i3",
+              "mhz": "3600",
+              "cores": "4",
+              "powerconsumption-w": "65"
+            },
+            {
+              "id": "2",
+              "type": "processor",
+              "name": "AMD Athlon",
+              "mhz": "3200",
+              "cores": "2",
+              "powerconsumption-w": "35"
+            },
+            {
+              "id": "3",
+              "type": "os",
+              "name": "Windows 10"
+            },
+            {
+              "id": "4",
+              "type": "os",
+              "name": "Windows 7"
+            },
+            {
+              "id": "5",
+              "type": "body",
+              "name": "DEXP DC-102B"
+            },
+            {
+              "id": "6",
+              "type": "body",
+              "name": "AeroCool CS-103"
+              
+            },
+            {
+              "id": "7",
+              "type": "videocard",
+              "name": "AMD Radeon",
+              "memory-gb": "16",
+              "memory-version": "6",
+              "mhz": "2050"
+            },
+            {
+              "id": "8",
+              "type": "videocard",
+              "name": "GeForce RTX 3070",
+              "memory-gb": "8",
+              "memory-version": "6",
+              "mhz": "1815"
+            },
+            {
+              "id": "9",
+              "type": "motherboard",
+              "name": "ASUS PRIME Z390-P"
+            },
+            {
+              "id": "10",
+              "type": "motherboard",
+              "name": "GIGABYTE B460M D3H"
+            },
+            {
+              "id": "11",
+              "type": "ram",
+              "name": "Kingston ValueRAM",
+              "memory-gb": "8",
+              "mhz": "1600",
+              "memory-type": "DDR3"
+            },
+            {
+              "id": "12",
+              "type": "ram",
+              "name": "HyperX Fury Red",
+              "memory-gb": "4",
+              "mhz": "1600",
+              "memory-type": "DDR3"
+            },
+            {
+              "id": "13",
+              "type": "powerblock",
+              "name": "Aerocool Cylon",
+              "powerprod-w": "500"
+            },
+            {
+              "id": "14",
+              "type": "powerblock",
+              "name": "SYSTEM POWER 9",
+              "powerprod-w": "400"
+            },
+            {
+              "id": "15",
+              "type": "ssd",
+              "name": "Kingston A400",
+              "amount-gb": "240",
+              "speed-gbs": "6"
+            },
+            {
+              "id": "16",
+              "type": "ssd",
+              "name": "WD Green WDS240G2G0A",
+              "amount-gb": "240",
+              "speed-gbs": "6"
+              
+            },
+            {
+              "id": "17",
+              "type": "harddrive",
+              "name": "WD Blue",
+              "amount-gb": "500",
+              "speed-gbs": "6",
+              "rotation-rpm": "5400"
+            },
+            {
+              "id": "18",
+              "type": "harddrive",
+              "name": "Toshiba P300",
+              "amount-gb": "1024",
+              "speed-gbs": "6",
+              "rotation-rpm": "7200"
+            },
+            {
+              "id": "19",
+              "type": "cooling",
+              "name": "CoolerMaster H115",
+              "powerconsumtion-w": "60",
+              "rotation-rpm": "2700",
+              "noise-db": "23"
+            },
+            {
+              "id": "20",
+              "type": "cooling",
+              "name": "DEEPCOOL Alta 9",
+              "powerconsumtion-w": "65",
+              "rotation-rpm": "2200",
+              "noise-db": "26"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

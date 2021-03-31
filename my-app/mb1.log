@@ -1,0 +1,19 @@
+{"message":"[mb:2525] mountebank v2.4.0 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2021-03-30T10:39:44.152Z"}
+{"message":"[mb:2525] PUT /imposters","level":"info","timestamp":"2021-03-30T10:39:44.187Z"}
+{"message":"[http:50110] Open for business...","level":"info","timestamp":"2021-03-30T10:39:44.233Z"}
+{"message":"[http:50110] ::1:61997 => GET /pcs","level":"info","timestamp":"2021-03-30T10:39:56.510Z"}
+{"message":"[http:50110] ::1:62003 => GET /pcs","level":"info","timestamp":"2021-03-30T10:39:57.884Z"}
+{"message":"[http:50110] ::1:62004 => GET /pcs","level":"info","timestamp":"2021-03-30T10:39:59.796Z"}
+{"message":"[http:50110] ::1:62005 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:02.185Z"}
+{"message":"[http:50110] ::1:62006 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:03.555Z"}
+{"message":"[http:50110] ::1:62007 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:04.455Z"}
+{"message":"[http:50110] ::1:62008 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:05.744Z"}
+{"message":"[http:50110] ::1:62009 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:11.732Z"}
+{"message":"[http:50110] ::1:62010 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:13.832Z"}
+{"message":"[http:50110] ::1:62011 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:14.756Z"}
+{"message":"[http:50110] ::1:62012 => GET /pcs","level":"info","timestamp":"2021-03-30T10:40:17.657Z"}
+{"message":"[http:50110] ::1:62049 => GET /pcs","level":"info","timestamp":"2021-03-30T10:44:26.380Z"}
+{"message":"[http:50110] ::1:62051 => GET /pcs","level":"info","timestamp":"2021-03-30T10:44:27.177Z"}
+{"message":"[http:50110] ::1:62052 => GET /pcs","level":"info","timestamp":"2021-03-30T10:44:50.993Z"}
+{"message":"[http:50110] ::1:62053 => GET /pcs","level":"info","timestamp":"2021-03-30T10:44:54.491Z"}
+{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2021-03-30T16:11:30.139Z"}
